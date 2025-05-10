@@ -1,5 +1,11 @@
 # 🌿 Plant Disease Classification with EfficientNet & DenseNet
 
+
+
+https://github.com/user-attachments/assets/6f860eb4-3e7f-45e8-b1b2-376d90f3e0ca
+
+
+
 This project leverages deep learning to identify plant diseases from leaf images. Using transfer learning with EfficientNetB0 and DenseNet121, the model can classify images into 8 specific categories. A Streamlit-based web interface allows users to upload images and get instant predictions.
 
 ---
